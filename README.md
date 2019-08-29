@@ -54,21 +54,21 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(41).pdf" style="text-decoration:none;">The Essential Hayim Greenberg: Essays and Addresses on Jewish Culture, Socialism, and Zionism</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(42).pdf" style="text-decoration:none;">The Holocaust Object in Polish and Polish-Jewish Culture</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(43).pdf" style="text-decoration:none;">The Jew as Legitimation: Jewish-Gentile Relations Beyond Antisemitism and Philosemitism </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(44).pdf" style="text-decoration:none;">The Jews of Moscow, Kiev and Minsk: Identity, Antisemitism, Emigration </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(45).pdf" style="text-decoration:none;">The Politics of Unreason: The Frankfurt School and the Origins of Modern Antisemitism </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(46).pdf" style="text-decoration:none;">The Socialist Response to Antisemitism in Imperial Germany </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(47).pdf" style="text-decoration:none;">The State, the Nation, and the Jews: Liberalism and the Antisemitism Dispute in Bismarck's Germany</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(43).pdf" style="text-decoration:none;">The Idea of Modern Jewish Culture </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(44).pdf" style="text-decoration:none;">The Impact of Culture and Cultures Upon Jewish Customs and Rituals: Collected Essays </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(45).pdf" style="text-decoration:none;">The Jewish World of Sigmund Freud </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(46).pdf" style="text-decoration:none;">The Routledge Handbook of Contemporary Jewish Cultures </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(47).pdf" style="text-decoration:none;">The Russian Jewish Diaspora and European Culture, 1917–1937</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(48).pdf" style="text-decoration:none;">Antisemitism, Christian Ambivalence, and the Holocaust</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(49).pdf" style="text-decoration:none;">Jewish Perceptions of Antisemitism  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(50).pdf" style="text-decoration:none;">Antisemitism Historically And Critically Examined</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(48).pdf" style="text-decoration:none;">The Same but Different? Inter-cultural Trade and the Sephardim, 1595–1640</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(49).pdf" style="text-decoration:none;">Time, Astronomy, and Calendars in the Jewish Tradition  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(50).pdf" style="text-decoration:none;">Writing Jewish Culture: Paradoxes in Ethnography</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(52).pdf" style="text-decoration:none;">Antisemitism: A Reference Handbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(51).pdf" style="text-decoration:none;">Yiddish Language & Culture: Then & Now</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(52).pdf" style="text-decoration:none;">YIVO and the Making of Modern Jewish Culture</a></b></li>
  
  
  
