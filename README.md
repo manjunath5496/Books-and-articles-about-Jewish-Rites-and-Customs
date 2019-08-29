@@ -34,13 +34,15 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(28).pdf" style="text-decoration:none;">The Meanings of Death in Rabbinic Judaism</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(29).pdf" style="text-decoration:none;">Memory, Oblivion, and Jewish Culture in Latin America</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(30).pdf" style="text-decoration:none;">Modern Middle Eastern Jewish Thought</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(31).pdf" style="text-decoration:none;">On Antisemitism: Solidarity and the Struggle for Justice</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(32).pdf" style="text-decoration:none;">Peasant Violence and Antisemitism in Early
-Twentieth-Century Eastern Europe</a></b></li>      
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(31).pdf" style="text-decoration:none;">Nietzsche and Jewish Culture</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(32).pdf" style="text-decoration:none;">Number Our Days - Barbara Myerhoff</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(33).pdf" style="text-decoration:none;">Globalizing Race: Antisemitism and Empire in French and European Culture</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(33).pdf" style="text-decoration:none;">Jewish and Israeli History, Art and Culture</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(34).pdf" style="text-decoration:none;">Reflections on Anti-Semitism</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(34).pdf" style="text-decoration:none;">Passport to Jewish Music: Its History, Traditions, and Culture</a></b></li> 
+  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(35).pdf" style="text-decoration:none;">Philosophy and the Jewish Question</a></b></li>  
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(36).pdf" style="text-decoration:none;">Jews, Citizenship, and Antisemitism in French Colonial Algeria, 1870-1943</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(37).pdf" style="text-decoration:none;">Studying the Jew: Scholarly Antisemitism in Nazi Germany</a></b></li>
