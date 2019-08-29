@@ -44,16 +44,16 @@
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(35).pdf" style="text-decoration:none;">Philosophy and the Jewish Question</a></b></li>  
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(36).pdf" style="text-decoration:none;">Jews, Citizenship, and Antisemitism in French Colonial Algeria, 1870-1943</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(37).pdf" style="text-decoration:none;">Studying the Jew: Scholarly Antisemitism in Nazi Germany</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(36).pdf" style="text-decoration:none;">Poets of Jewish Culture</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(37).pdf" style="text-decoration:none;">Powers Of Diaspora: Two Essays On The Relevance Of Jewish Culture</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(38).pdf" style="text-decoration:none;">The Accommodated Jew: English Antisemitism from Bede to Milton </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(39).rar" style="text-decoration:none;">The Aesthetics Of Hate</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(40).pdf" style="text-decoration:none;">The Frankfurt School, Jewish Lives, and Antisemitism</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(38).pdf" style="text-decoration:none;">Salvation through Spinoza </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(39).pdf" style="text-decoration:none;">Science in Medieval Jewish Cultures</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(40).pdf" style="text-decoration:none;">The Culture of Critique: An Evolutionary Analysis of Jewish Involvement in Twentieth-Century Intellectual and Political Movements</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(41).pdf" style="text-decoration:none;">The German Right in the Weimar Republic: Studies in the History of German Conservatism, Nationalism, and Antisemitism</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(41).pdf" style="text-decoration:none;">The Essential Hayim Greenberg: Essays and Addresses on Jewish Culture, Socialism, and Zionism</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(42).pdf" style="text-decoration:none;">The Holocaust and Antisemitism: A Short History</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(42).pdf" style="text-decoration:none;">The Holocaust Object in Polish and Polish-Jewish Culture</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(43).pdf" style="text-decoration:none;">The Jew as Legitimation: Jewish-Gentile Relations Beyond Antisemitism and Philosemitism </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(44).pdf" style="text-decoration:none;">The Jews of Moscow, Kiev and Minsk: Identity, Antisemitism, Emigration </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(45).pdf" style="text-decoration:none;">The Politics of Unreason: The Frankfurt School and the Origins of Modern Antisemitism </a></b></li>                              
