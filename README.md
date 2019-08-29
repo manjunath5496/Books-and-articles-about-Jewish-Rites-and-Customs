@@ -9,7 +9,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(7).pdf" style="text-decoration:none;">Cultures of the Jews: A New History</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(8).pdf" style="text-decoration:none;">Jewish Medical Culture: Case Studies in End-of-Life Decision Making</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(9).pdf" style="text-decoration:none;">Personal Essays on the Rebirth of Jewish Life in Poland Since 1989Antisemitism: Myth and Hate from Antiquity to the Present </a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(9).pdf" style="text-decoration:none;">Personal Essays on the Rebirth of Jewish Life in Poland Since 1989 </a></b></li>                             
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(10).pdf" style="text-decoration:none;">Divergent Jewish Cultures: Israel and America</a></b></li>                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(11).pdf" style="text-decoration:none;">Divided Lives: The Untold Stories of Jewish-Christian Women in Nazi Germany</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(12).pdf" style="text-decoration:none;">Early Modern Jewry: A New Cultural History</a></b></li>
@@ -17,12 +17,12 @@
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(14).pdf" style="text-decoration:none;">Jewish Consumption and Material Culture in the Early Modern Period</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(15).pdf" style="text-decoration:none;">Encyclopedia of Modern Jewish Culture </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(16).pdf" style="text-decoration:none;">Church, nation and race: Catholics and antisemitism in Germany and England, 1918–1945</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(16).pdf" style="text-decoration:none;">Exiles on Main Street: Jewish American Writers and American Literary Culture</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(17).pdf" style="text-decoration:none;">Colonialism, Antisemitism, and Germans of Jewish Descent in Imperial Germany</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(17).pdf" style="text-decoration:none;">German-Jewish Popular Culture before the Holocaust</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(18).pdf" style="text-decoration:none;">Deciphering the New Antisemitism</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(19).pdf" style="text-decoration:none;">Denial and Repression of Antisemitism  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(18).pdf" style="text-decoration:none;">Inextricably Bonded: Israeli Arab and Jewish Writers Re-Visioning Culture</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(19).pdf" style="text-decoration:none;">Jewish Cult and Hellenistic Culture  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(20).pdf" style="text-decoration:none;"> Enemies for a Day: Antisemitism and Anti-Jewish Violence in Lithuania under the Tsars  </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(21).pdf" style="text-decoration:none;">European Muslim Antisemitism: Why Young Urban Males Say They Don't Like Jews </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/sml(22).pdf" style="text-decoration:none;">Inside the Antisemitic Mind: The Language of Jew-Hatred in Contemporary Germany </a></b></li>
