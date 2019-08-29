@@ -71,8 +71,15 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(52).pdf" style="text-decoration:none;">YIVO and the Making of Modern Jewish Culture</a></b></li>
  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(53).pdf" style="text-decoration:none;">Jewish Identities: Fifty Intellectuals Answer Ben-Gurion</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(54).pdf" style="text-decoration:none;">Living a Jewish Life: Jewish Traditions, Customs, and Values for Today's Families  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(55).pdf" style="text-decoration:none;">Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry</a></b></li>
  
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(56).pdf" style="text-decoration:none;">The Jewish Phenomenon: Seven Keys to the Enduring Wealth of a People</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(57).pdf" style="text-decoration:none;">The Jewish Law Annual</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/jcu(58).pdf" style="text-decoration:none;">The Torah: The Five Books of Moses</a></b></li>
  
  
  </ul>
